@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajna-thondikkal" alt="sajna-thondikkal" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js ,express framework**
+- 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sajna-thondikkal/sajna-thondikkal](https://github.com/sajna-thondikkal/sajna-thondikkal)
 
