@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sajna-thondikkal/sajna-thondikkal](https://github.com/sajna-thondikkal/sajna-thondikkal)
 
-- 💬 Ask me about **Passionate backend developer**
-
 - 📫 How to reach me **sajnathondikkal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
